@@ -14,3 +14,14 @@
  <b>2.3 Batasan dan antarmuka organisasi</b>
  <b>2.4 Lingkup tanggung jawab</b>
  </ol>
+*__3. Proses Manajerial__*
+	3.1 Tujuan dan prioritas manajemen<br>
+	3.2 Asumsi-asumsi,ketergantungan/keterkaitan,dan 
+batasan-batasan<br>
+	3.3 Manajemen resiko<br>
+	3.4 Mekanisme monitoring dan kontroling<br>
+	3.5 Perencanaan staf<br>
+**4. Proses teknis**
+	4.1 metoda,tool, dan teknik<br>
+	4.2 Dokumentasi perangkat lunak<br>
+	4.3 Fungsi-fungsi pendukung proyek<br>
