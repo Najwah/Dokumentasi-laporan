@@ -86,27 +86,27 @@ Lingkup dan tanggung jawab ini berisi tugas dari setiap elemen anggota dalam pem
 &emsp;&emsp;Kami membutuhkan kolaborasi dengan kelompok lain dengan mereka<br>
 &emsp;&emsp;membuat client berbasis mobile dan kami membuat server berbasis web<br>
 
-**5. Paket pekerjaan,jadwal,dan buge** <br>
-<ol>
-	**5.1 Paket pekerjaan**<br>
+**5. Paket pekerjaan,jadwal,dan budget** <br>
+<b><ol>
+	5.1 Paket pekerjaan<br></b>
 	&emsp;Paket kerja yang akan dihasilkan dengan sebelumnya menentukan work breakdown structure (WBS). Paket kerja yang dibuat dilihat dari sisi teknis, yang meliputi :<br>
 	&emsp;&emsp;a. Penentuan waktu, biaya dan seluruh kegiatan yang akan dikerjakan didalam proyek.<br>
 	&emsp;&emsp;b. Pengadaan peralatan dan komponen alat pendukung proyek.<br>
 	&emsp;&emsp;c. Perancangan software dengan membuat source code dan mengkompilasinya.<br>
 	&emsp;&emsp;d. Mengintegrasikan software dengan hardware, serta mengujicobanya.<br>
 	&emsp;&emsp;e. Menginstalasikan produk yang telah dihasilkan.<br>
-	**5.2 Ketergantungan/keterkaitan**<br>
+	5.2 Ketergantungan/keterkaitan<br>
 	&emsp;Dalam proses pengerjaan proyek yang kami buat ini, keterkaitan dari tugas masing-masing saling membantu agar terbentuknya ketelitian saat mengerjakan dan mendapatkan hasil yang bagus. Berikut adalah perinciaannya.<br>
 	&emsp;Manager->	Anggota = Tugas manager adalah untuk mengawasi anggota-anggotanya jika singkata mengerjakan projek anggotanya lalai dengan tugasnya ketua tersebut berhak untuk menegur anggotanya dan yang Menjadi anggota tidak berhak untuk melawan.<br>
 	&emsp;Programmer -> Tester = Salah satu tugas Tester yaitu untuk mengecek jika saat programmer salah dalam melakukan pengkodingan tersebut agar bisa langsung di perbaiki.<br>
 	&emsp;Administrator -> Manager = Tugas Administrator bertanggung jawab untuk menyiapkan dokumen-dokumen yang akan di gunakan untuk penggarapan dan saat selesai hasil akhir projek.<br>
 	&emsp;Analisis -> Programmer = Yang bertugas sebagai analisis yaitu memberi suatu gambaran projek dan pengkodian pada programer.<br>
 	&emsp;Tester -> Programer = Bertugas sebagai memberi masukanmasukan kepada Programer untuk membuat program yang sedang di buat supaya bisa menarik konsumen juga bisa menarik konsumen saat program yang dibuat sudah selesai.<br>
-	**5.3 Kebutuhan-kebutuhan sumber daya**<br>
+	5.3 Kebutuhan-kebutuhan sumber daya<br>
 	&emsp;5.3.1 Kebutuhan Sumber Daya Manusia<br>
 	&emsp;&emsp;1. Rana Eka Millenio		= Manager, Programmer<br>
 	&emsp;&emsp;2. Iis Juita Sari			= Sistem Analis, Programmer<br>
-	&emsp;&emsp;3. Najmah					= Administrator, Tester<br>
+	&emsp;&emsp;3. Najwah					= Administrator, Tester<br>
 	&emsp;5.3.2 Kebutuhan Sumber Daya Software<br>
 	&emsp;&emsp;1. Sistem Operasi			= Windows 10 or  Higher<br>
 	&emsp;&emsp;2. Bahasa Pemerograman		= PHP <br>
@@ -119,7 +119,7 @@ Lingkup dan tanggung jawab ini berisi tugas dari setiap elemen anggota dalam pem
 	&emsp;&emsp;4. Layar(Monitor)			= Resolusi 1240 x 768 colors<br>
 	&emsp;&emsp;5. Keyboard					= Compatible with Windows<br>
 	&emsp;&emsp;6. Mouse					= Compatible with Windows<br>
-	**5.4 Alokasi buget dan sumber daya**<br>
+	5.4 Alokasi budget dan sumber daya<br>
 	&emsp;Berikut adalah rincian biaya yang diperlukan untuk pengerjaan proyek kami, dapat dilihat pada tabel dibawah ini.<br>
 	&emsp;5.4.1 Estimasi Biaya Software<br>
 	&emsp;1 Windows 10 or Higher 			=Rp. ,-<br>
