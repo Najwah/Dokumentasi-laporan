@@ -46,44 +46,87 @@ Lingkup dan tanggung jawab ini berisi tugas dari setiap elemen anggota dalam pem
 
 
 
-**3. Proses Manajerial**  
-&emsp;&emsp;**3.1 Tujuan dan prioritas manajemen**
+**3. Proses Manajerial**<br>  
+&emsp;&emsp;**3.1 Tujuan dan prioritas manajemen**<br>
 &emsp;&emsp;Untuk tahap awal kita membuat konsep dan system dari aplikasi yang kita<br>
 &emsp;&emsp;buat kemudian karena keterbatasan waktu jadi kita sesuiakan aplikasi yang <br>
 &emsp;&emsp;kita buat itu seefesien mungkin bagi konsumen dan dapat dipahami<br>
 
   
-&emsp;&emsp;**3.2 Asumsi-asumsi,ketergantungan/keterkaitan,danbatasan-batasan**
+&emsp;&emsp;**3.2 Asumsi-asumsi,ketergantungan/keterkaitan,danbatasan-batasan**<br>
 &emsp;&emsp;Untuk sekarang ini maraknya jasa Laundry tapi masih menggunkan cara <br>
 &emsp;&emsp;yang manual, dengan itu maka kami membuat aplikasi yang mempermudah<br>
 &emsp;&emsp;jasa laundry dan konsumen dengan menggunakan aplikasi dan online. <br>
 
-&emsp;&emsp;**3.3 Manajemen resiko**
+&emsp;&emsp;**3.3 Manajemen resiko**<br>
 &emsp;&emsp;Keterlambatan pengiriman barang jikalau jauh dan kondisi eksternal <br>
 &emsp;&emsp;serta admin harus standbay<br>
 
   
-&emsp;&emsp;**3.4 Mekanisme monitoring dan kontroling**
+&emsp;&emsp;**3.4 Mekanisme monitoring dan kontroling**<br>
 &emsp;&emsp;Dengan melihat status barang prosesnya sampai mana dan dapat dilihat <br>
 &emsp;&emsp;dalam halaman admin<br>
 
   
-&emsp;&emsp;**3.5 Perencanaan staf**
+&emsp;&emsp;**3.5 Perencanaan staf**<br>
 &emsp;&emsp;Staf dibagi menjadi dua yaitu sebagai pengantar laundry dan kasir (admin)<br>
 
-**4. Proses teknis**  
-&emsp;&emsp;**4.1 metoda,tool, dan teknik**
+**4. Proses teknis**  <br>
+&emsp;&emsp;**4.1 metoda,tool, dan teknik**<br>
 &emsp;&emsp;Kemungkinan Kami akan menggunkan Bahasa pemograman PHP dan <br>
 &emsp;&emsp;databasenya menggunakan mysql dengan cara menghubungkan antara <br>
 &emsp;&emsp;database dengan data yang diprogram<br>
 
-&emsp;&emsp;**4.2 Dokumentasi perangkat lunak**
+&emsp;&emsp;**4.2 Dokumentasi perangkat lunak**<br>
 &emsp;&emsp;Dalam aplikasi ini akan terdapat fitur paket laundry, status laundry, <br>
 &emsp;&emsp;pengantar laundry kekonsumen dsb.<br>
 
   
-&emsp;&emsp;**4.3 Fungsi-fungsi pendukung proyek**
+&emsp;&emsp;**4.3 Fungsi-fungsi pendukung proyek**<br>
 &emsp;&emsp;Kami membutuhkan kolaborasi dengan kelompok lain dengan mereka<br>
 &emsp;&emsp;membuat client berbasis mobile dan kami membuat server berbasis web<br>
 
+**5. Paket pekerjaan,jadwal,dan buge** <br>
+<ol>
+	**5.1 Paket pekerjaan**<br>
+	&emsp;Paket kerja yang akan dihasilkan dengan sebelumnya menentukan work breakdown structure (WBS). Paket kerja yang dibuat dilihat dari sisi teknis, yang meliputi :<br>
+	&emsp;&emsp;a. Penentuan waktu, biaya dan seluruh kegiatan yang akan dikerjakan didalam proyek.<br>
+	&emsp;&emsp;b. Pengadaan peralatan dan komponen alat pendukung proyek.<br>
+	&emsp;&emsp;c. Perancangan software dengan membuat source code dan mengkompilasinya.<br>
+	&emsp;&emsp;d. Mengintegrasikan software dengan hardware, serta mengujicobanya.<br>
+	&emsp;&emsp;e. Menginstalasikan produk yang telah dihasilkan.<br>
+	**5.2 Ketergantungan/keterkaitan**<br>
+	&emsp;Dalam proses pengerjaan proyek yang kami buat ini, keterkaitan dari tugas masing-masing saling membantu agar terbentuknya ketelitian saat mengerjakan dan mendapatkan hasil yang bagus. Berikut adalah perinciaannya.<br>
+	&emsp;Manager->	Anggota = Tugas manager adalah untuk mengawasi anggota-anggotanya jika singkata mengerjakan projek anggotanya lalai dengan tugasnya ketua tersebut berhak untuk menegur anggotanya dan yang Menjadi anggota tidak berhak untuk melawan.<br>
+	&emsp;Programmer -> Tester = Salah satu tugas Tester yaitu untuk mengecek jika saat programmer salah dalam melakukan pengkodingan tersebut agar bisa langsung di perbaiki.<br>
+	&emsp;Administrator -> Manager = Tugas Administrator bertanggung jawab untuk menyiapkan dokumen-dokumen yang akan di gunakan untuk penggarapan dan saat selesai hasil akhir projek.<br>
+	&emsp;Analisis -> Programmer = Yang bertugas sebagai analisis yaitu memberi suatu gambaran projek dan pengkodian pada programer.<br>
+	&emsp;Tester -> Programer = Bertugas sebagai memberi masukanmasukan kepada Programer untuk membuat program yang sedang di buat supaya bisa menarik konsumen juga bisa menarik konsumen saat program yang dibuat sudah selesai.<br>
+	**5.3 Kebutuhan-kebutuhan sumber daya**<br>
+	&emsp;5.3.1 Kebutuhan Sumber Daya Manusia<br>
+	&emsp;&emsp;1. Rana Eka Millenio		= Manager, Programmer<br>
+	&emsp;&emsp;2. Iis Juita Sari			= Sistem Analis, Programmer<br>
+	&emsp;&emsp;3. Najmah					= Administrator, Tester<br>
+	&emsp;5.3.2 Kebutuhan Sumber Daya Software<br>
+	&emsp;&emsp;1. Sistem Operasi			= Windows 10 or  Higher<br>
+	&emsp;&emsp;2. Bahasa Pemerograman		= PHP <br>
+	&emsp;&emsp;3. Sofware Pengolah			= Sublime<br>
+	&emsp;&emsp;4. Database Engine			= Xampp<br>
+	&emsp;5.3.3 Kebutuhan Sumber Daya Hardware<br>
+	&emsp;&emsp;1. Processor 				= Minimal Core i3 or Higher<br>
+	&emsp;&emsp;2. Memory(RAM)				= Minimal 2GB or Hiher<br>
+	&emsp;&emsp;3. Penyimpanan(Hardisk)		= 4GB free Space<br>
+	&emsp;&emsp;4. Layar(Monitor)			= Resolusi 1240 x 768 colors<br>
+	&emsp;&emsp;5. Keyboard					= Compatible with Windows<br>
+	&emsp;&emsp;6. Mouse					= Compatible with Windows<br>
+	**5.4 Alokasi buget dan sumber daya**<br>
+	&emsp;Berikut adalah rincian biaya yang diperlukan untuk pengerjaan proyek kami, dapat dilihat pada tabel dibawah ini.<br>
+	&emsp;5.4.1 Estimasi Biaya Software<br>
+	&emsp;1 Windows 10 or Higher 			=Rp. ,-<br>
+	&emsp;2 PHP				 				=Rp. ,-<br>
+	&emsp;3 Sublime							=Rp. ,-<br>
+	&emsp;4 Xampp 						    =Rp. ,-<br>
+	5.5 Jadwal<br>
+	&emsp;Untuk menyelesaikan Aplikasi Simulasi  Manajemen Proyek Perangkat Lunak ini diperlukan waktu kurang lebih 4 bulan.
+</ol>
 
