@@ -46,3 +46,44 @@ Lingkup dan tanggung jawab ini berisi tugas dari setiap elemen anggota dalam pem
 
 
 
+**3. Proses Manajerial**  
+&emsp;&emsp;**3.1 Tujuan dan prioritas manajemen**
+&emsp;&emsp;Untuk tahap awal kita membuat konsep dan system dari aplikasi yang kita<br>
+&emsp;&emsp;buat kemudian karena keterbatasan waktu jadi kita sesuiakan aplikasi yang <br>
+&emsp;&emsp;kita buat itu seefesien mungkin bagi konsumen dan dapat dipahami<br>
+
+  
+&emsp;&emsp;**3.2 Asumsi-asumsi,ketergantungan/keterkaitan,danbatasan-batasan**
+&emsp;&emsp;Untuk sekarang ini maraknya jasa Laundry tapi masih menggunkan cara <br>
+&emsp;&emsp;yang manual, dengan itu maka kami membuat aplikasi yang mempermudah<br>
+&emsp;&emsp;jasa laundry dan konsumen dengan menggunakan aplikasi dan online. <br>
+
+&emsp;&emsp;**3.3 Manajemen resiko**
+&emsp;&emsp;Keterlambatan pengiriman barang jikalau jauh dan kondisi eksternal <br>
+&emsp;&emsp;serta admin harus standbay<br>
+
+  
+&emsp;&emsp;**3.4 Mekanisme monitoring dan kontroling**
+&emsp;&emsp;Dengan melihat status barang prosesnya sampai mana dan dapat dilihat <br>
+&emsp;&emsp;dalam halaman admin<br>
+
+  
+&emsp;&emsp;**3.5 Perencanaan staf**
+&emsp;&emsp;Staf dibagi menjadi dua yaitu sebagai pengantar laundry dan kasir (admin)<br>
+
+**4. Proses teknis**  
+&emsp;&emsp;**4.1 metoda,tool, dan teknik**
+&emsp;&emsp;Kemungkinan Kami akan menggunkan Bahasa pemograman PHP dan <br>
+&emsp;&emsp;databasenya menggunakan mysql dengan cara menghubungkan antara <br>
+&emsp;&emsp;database dengan data yang diprogram<br>
+
+&emsp;&emsp;**4.2 Dokumentasi perangkat lunak**
+&emsp;&emsp;Dalam aplikasi ini akan terdapat fitur paket laundry, status laundry, <br>
+&emsp;&emsp;pengantar laundry kekonsumen dsb.<br>
+
+  
+&emsp;&emsp;**4.3 Fungsi-fungsi pendukung proyek**
+&emsp;&emsp;Kami membutuhkan kolaborasi dengan kelompok lain dengan mereka<br>
+&emsp;&emsp;membuat client berbasis mobile dan kami membuat server berbasis web<br>
+
+
