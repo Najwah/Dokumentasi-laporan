@@ -1,18 +1,18 @@
 **1.	Pendahuluan**<br>
 
-1.1	Gambaran proyek<br>
+**1.1	Gambaran proyek**<br>
 &emsp;Usaha laundry merupakan salah satu bentuk usaha yang cukup menjanjikan, karena semakin banyak peminat jasa laundry. Disini kita akan mengembangkan usaha laundry yang awalnya transaksi masih manual dan untuk mengetahui biaya laundry si client harus mendatangi langsung toko laundry, dan yang mungkin juga ada yang sudah datang ke toko laundry ternyata toko nya tutup karena si client tidak tahu Hari/jam kerja dari toko laundry nya tersebut.
 Aplikasi ini dibuat agar lebih efisien waktu dan tenaga, Kenapa lebih efisien?<br>
 Karena Aplikasi ini menjadikan client mengetahui informasi jasa laundry satuan dan kiloan tanpa harus datang ke toko laundry nya.<br>
 Client juga dapat mengetahui jam buka toko laundry, Client dapat tracking pakaian yang sedang di laundry apakah status nya masih di cuci atau sudah selesai dan siap dijemput. Disediakan juga jasa antar-jemput laundry untuk client yang tidak memiliki waktu untuk mengantar atau menjemput pakaian yang akan di laundry ke toko laundry nya secara langsung.
 
-1.2	Dokumen-dokumen dalam proyek<br>
+**1.2	Dokumen-dokumen dalam proyek**<br>
 &emsp;Saat mengerjakan projek ini, pencatatan kegiatan yang telah dilakukan akan ditulis dalam log book kelompok, anggota yang telah mengerjakan tugas sesuai proyek kegiatannya dicatat dalam log book, selain log book dokumen yang berkaitan dengan projek ini meliputi penjadwalan,pembagian tugas,dan referensi-referensi yang berkaitan dengan pembuatan projek ini.<br>
-1.3	Evolusi SPMP<br>
+**1.3	Evolusi SPMP**<br>
 &emsp;Dokumen ini bersifat freeware, jadi siapa saja boleh untuk memanfaatkan dokumen ini untuk hal yang positif. Tentu ada hal-hal yang tidak boleh dilakukan dalam pemanfaatan dokumen ini, seperti menjualbelikan dokumen ini secara illegal, ataupun mengubah dokumen tanpa dasar yang jelas.<br>
-1.4	Material acuan/referensi<br>
+**1.4	Material acuan/referensi**<br>
 &emsp;Materi yang menjadi acuan dalam pembuatan projek ini menggunakan standar IEEE.
-1.5	Definisi dan akronomi<br>
+**1.5	Definisi dan akronomi**<br>
 &emsp;IEEE adalah standar yang mendefinisikan lapisan fisik dan sublapisan media akses dari lapisan data-link.
 
 **2.	Organisasi proyek**<br>
@@ -87,22 +87,21 @@ Lingkup dan tanggung jawab ini berisi tugas dari setiap elemen anggota dalam pem
 &emsp;&emsp;membuat client berbasis mobile dan kami membuat server berbasis web<br>
 
 **5. Paket pekerjaan,jadwal,dan budget** <br>
-<b><ol>
-	5.1 Paket pekerjaan<br></b>
+	**5.1 Paket pekerjaan**<br>
 	&emsp;Paket kerja yang akan dihasilkan dengan sebelumnya menentukan work breakdown structure (WBS). Paket kerja yang dibuat dilihat dari sisi teknis, yang meliputi :<br>
 	&emsp;&emsp;a. Penentuan waktu, biaya dan seluruh kegiatan yang akan dikerjakan didalam proyek.<br>
 	&emsp;&emsp;b. Pengadaan peralatan dan komponen alat pendukung proyek.<br>
 	&emsp;&emsp;c. Perancangan software dengan membuat source code dan mengkompilasinya.<br>
 	&emsp;&emsp;d. Mengintegrasikan software dengan hardware, serta mengujicobanya.<br>
 	&emsp;&emsp;e. Menginstalasikan produk yang telah dihasilkan.<br>
-	5.2 Ketergantungan/keterkaitan<br>
-	&emsp;Dalam proses pengerjaan proyek yang kami buat ini, keterkaitan dari tugas masing-masing saling membantu agar terbentuknya ketelitian saat mengerjakan dan mendapatkan hasil yang bagus. Berikut adalah perinciaannya.<br>
-	&emsp;Manager->	Anggota = Tugas manager adalah untuk mengawasi anggota-anggotanya jika singkata mengerjakan projek anggotanya lalai dengan tugasnya ketua tersebut berhak untuk menegur anggotanya dan yang Menjadi anggota tidak berhak untuk melawan.<br>
-	&emsp;Programmer -> Tester = Salah satu tugas Tester yaitu untuk mengecek jika saat programmer salah dalam melakukan pengkodingan tersebut agar bisa langsung di perbaiki.<br>
-	&emsp;Administrator -> Manager = Tugas Administrator bertanggung jawab untuk menyiapkan dokumen-dokumen yang akan di gunakan untuk penggarapan dan saat selesai hasil akhir projek.<br>
-	&emsp;Analisis -> Programmer = Yang bertugas sebagai analisis yaitu memberi suatu gambaran projek dan pengkodian pada programer.<br>
-	&emsp;Tester -> Programer = Bertugas sebagai memberi masukanmasukan kepada Programer untuk membuat program yang sedang di buat supaya bisa menarik konsumen juga bisa menarik konsumen saat program yang dibuat sudah selesai.<br>
-	5.3 Kebutuhan-kebutuhan sumber daya<br>
+	**5.2 Ketergantungan/keterkaitan**<br>
+	&emsp;&emsp;Dalam proses pengerjaan proyek yang kami buat ini, keterkaitan dari tugas masing-masing saling membantu agar terbentuknya ketelitian saat mengerjakan dan mendapatkan hasil yang bagus. Berikut adalah perinciaannya.<br>
+	&emsp;&emsp;Manager->	Anggota = Tugas manager adalah untuk mengawasi anggota-anggotanya jika singkata mengerjakan projek anggotanya lalai dengan tugasnya ketua tersebut berhak untuk menegur anggotanya dan yang Menjadi anggota tidak berhak untuk melawan.<br>
+	&emsp;&emsp;Programmer -> Tester = Salah satu tugas Tester yaitu untuk mengecek jika saat programmer salah dalam melakukan pengkodingan tersebut agar bisa langsung di perbaiki.<br>
+	&emsp;&emsp;Administrator -> Manager = Tugas Administrator bertanggung jawab untuk menyiapkan dokumen-dokumen yang akan di gunakan untuk penggarapan dan saat selesai hasil akhir projek.<br>
+	&emsp;&emsp;Analisis -> Programmer = Yang bertugas sebagai analisis yaitu memberi suatu gambaran projek dan pengkodian pada programer.<br>
+	&emsp;&emsp;Tester -> Programer = Bertugas sebagai memberi masukanmasukan kepada Programer untuk membuat program yang sedang di buat supaya bisa menarik konsumen juga bisa menarik konsumen saat program yang dibuat sudah selesai.<br>
+	**5.3 Kebutuhan-kebutuhan sumber daya**<br>
 	&emsp;5.3.1 Kebutuhan Sumber Daya Manusia<br>
 	&emsp;&emsp;1. Rana Eka Millenio		= Manager, Programmer<br>
 	&emsp;&emsp;2. Iis Juita Sari			= Sistem Analis, Programmer<br>
@@ -119,14 +118,14 @@ Lingkup dan tanggung jawab ini berisi tugas dari setiap elemen anggota dalam pem
 	&emsp;&emsp;4. Layar(Monitor)			= Resolusi 1240 x 768 colors<br>
 	&emsp;&emsp;5. Keyboard					= Compatible with Windows<br>
 	&emsp;&emsp;6. Mouse					= Compatible with Windows<br>
-	5.4 Alokasi budget dan sumber daya<br>
+	**5.4 Alokasi budget dan sumber daya**<br>
 	&emsp;Berikut adalah rincian biaya yang diperlukan untuk pengerjaan proyek kami, dapat dilihat pada tabel dibawah ini.<br>
 	&emsp;5.4.1 Estimasi Biaya Software<br>
-	&emsp;1 Windows 10 or Higher 			=Rp. ,-<br>
-	&emsp;2 PHP				 				=Rp. ,-<br>
-	&emsp;3 Sublime							=Rp. ,-<br>
-	&emsp;4 Xampp 						    =Rp. ,-<br>
-	5.5 Jadwal<br>
+	&emsp;&emsp;1 Windows 10 or Higher 				=Rp. ,-<br>
+	&emsp;&emsp;2 PHP				 				=Rp. ,-<br>
+	&emsp;&emsp;3 Sublime							=Rp. ,-<br>
+	&emsp;&emsp;4 Xampp 						    =Rp. ,-<br>
+	**5.5 Jadwal**<br>
 	&emsp;Untuk menyelesaikan Aplikasi Simulasi  Manajemen Proyek Perangkat Lunak ini diperlukan waktu kurang lebih 4 bulan.
-</ol>
+
 
