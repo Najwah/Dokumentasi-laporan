@@ -22,9 +22,11 @@
 &emsp;2.6 Kebutuhan-kebutuhan penyeimbang<br>
 <b>3. Kebutuhan lain yang spesifik</b><br>
 <b>4.  Informasi pendukung</b><br>
+<br>
+<br>
+<br>
 
-
-<b>1. Pendahuluan <b> 
+<b>1. Pendahuluan <b> <br>
 &emsp;&emsp;Dokumen ini akan berisi Spesifikasi  Kebutuhan Perangkat Lunak<br>
 (SKPL) atauSoftware RequirementSpecification (SRS) untuk sistem aplikasi<br>
 Laundry. Untukpenamaan dokumen ini selanjutnya akan  digunakan istilah<br>
