@@ -26,7 +26,7 @@
 <br>
 <br>
 
-<b>1. Pendahuluan <b> <br>
+<b>1. Pendahuluan </b> <br>
 &emsp;&emsp;Dokumen ini akan berisi Spesifikasi  Kebutuhan Perangkat Lunak<br>
 (SKPL) atauSoftware RequirementSpecification (SRS) untuk sistem aplikasi<br>
 Laundry. Untukpenamaan dokumen ini selanjutnya akan  digunakan istilah<br>
