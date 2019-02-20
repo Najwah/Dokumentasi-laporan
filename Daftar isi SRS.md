@@ -96,3 +96,42 @@ dokumen IEEE  Std 830-1993.<br>
 &emsp;&emsp;&emsp;-&emsp;Bagian keempat berisi model analisis dari perangkat lunak ini.<br>
 &emsp;&emsp;&emsp;-&emsp;Bagian kelima merupakan bagian terakhir yang berisi  lampiran serta <br>
 &emsp;&emsp;&emsp;&emsp; penjelasan dan penggambaran layarcustomer.<br>
+**2.**	**Gamabaran Umum**<br>
+	&emsp;**2.1**	**Perspektif produk**<br>
+		&emsp;&emsp;Pendefinisian Aplikasi Random Grup ini yaitu untuk membagi list nama menjadi kelompok yang dilakukan secara acak. Pembuatan Aplikasi Random Grup bertujuan untuk membantu pengguna dalam menentukan pembagian sebuah kelompok yang mudah dan praktis tanpa harus menggunakan kertas secara manual. <br>
+		&emsp;&emsp;**2.1.1**	**Antarmuka sistem**<br>
+				&emsp;&emsp;&emsp;Dalam penggunaan, pengguna berinteraksi langsung dengan aplikasi melalui PC / Laptop.<br>
+		&emsp;&emsp;**2.1.2**	**Antarmuka pengguna**<br>
+				&emsp;&emsp;&emsp;Perangkat lunak untuk aplikasi ini dibuat dengan menggunkan aplikasi flash. Dimana tampilan didesain dengan menggunakan template yang ada. Perangkat lunak untuk layanan dalam aplikasi ini dilengkapi dengan menu untuk pengaksesan berbagai fungsi yang disediakan.<br>
+		&emsp;&emsp;**2.1.3**	**Antarmuka perangkat keras**<br>
+				&emsp;&emsp;&emsp;Perangkat keras yang dapat digunakan dalam perangkat lunak yang dibuat:<br>
+				&emsp;&emsp;&emsp;1.	PC<br>
+				&emsp;&emsp;&emsp;2.	Monitor VGA mempunyai resolusi minimal 8800 x 1200 pixel.<br>
+			&emsp;&emsp;&emsp;3.	Keyboard dan mouse untuk kegiatan user.<br>
+				&emsp;&emsp;&emsp;4.	Semua perangkat keras yang digunakan merupakan perangkat sttandar dalam sistem komputer.<br>
+		&emsp;&emsp;**2.1.4**	**Antarmuka perangkat lunak**<br>
+				&emsp;&emsp;&emsp;Perangkat lunak yang dibutuhkan untuk perpustakaan antara lain:<br>
+				&emsp;&emsp;&emsp;1. Sistem Operasi Windows (10) dll<br>
+				&emsp;&emsp;&emsp;2. Untuk pengolahan database : MySql<br>
+				&emsp;&emsp;&emsp;3. Untuk koneksi Database digunakan ADOdB<br>
+		&emsp;&emsp;**2.1.5**	**Antarmuka komunikasi**<br>
+			&emsp;&emsp;&emsp;Proses komunikasi dalam sistem ini menggunakan jaringan lokal, dimana dikontrol oleh komputer server.<br>
+		&emsp;&emsp;**2.1.6**	**Batasan – batasan memori**<br>
+				&emsp;&emsp;&emsp;Perangkat lunak hanya dijalankan di Windows (7, 8,10 dll).
+				&emsp;&emsp;&emsp;Waktu pengembangan perangkat lunak yang singkat membuat adanya kemungkinan tidak semua fungsi yang ada dapat dilaksanakan. Pengembangan perangkat lunak tidak akan merubah file-file ataupun database yang ada pada saat ini tanpa adanya user.<br>
+		&emsp;&emsp;**2.1.7**	**Operasi – operasi**<br>
+				&emsp;&emsp;&emsp;Perangkat lunak dapat dijalankan di PC atau Laptop manapun. <br>
+		&emsp;&emsp;**2.1.8**	**Kebutuhan – kebutuhan dalam tahapan adaptasi**<br>
+	&emsp;**2.2**	**Fungsi – fungsi produk**<br>
+		&emsp;&emsp;Fungsi dari Aplikasi Laundry berdasarkan pengguna sistem ini adalah sebagai berikut :
+		&emsp;&emsp;	a.	Membantu pelanggan dalam memesan laundry dengan mudah dan cepat.<br>
+	&emsp;**2.3**	**Karakteristik pengguna**<br>
+		&emsp;&emsp;Karakterisitk pengguna dari perangkat lunak ini adalah pengguna langsung berinteraksi dengan sistem tanpa harus dihubungkan dengan hak akses dan level autentifikasi.<br>
+	&emsp;**2.4**	**Batasan – batasan**<br>
+	&emsp;&emsp;	1.	Perangkat lunak hanya dijalankan di Windows (7, 8, 10 ).<br>
+		&emsp;&emsp;2.	Waktu pengembangan perangkat lunak yang singkat membuat adanya kemungkinan tidak semua fungsi yang ada dapat dilaksanakan.<br>
+		&emsp;&emsp;3.	Pengembangan perangkat lunak tidak akan merubah file-file ataupun database yang ada.<br>
+	&emsp;**2.5**	**Asumsi – asumsi dan ketergantungan / keterkaitan**<br>
+		&emsp;&emsp;Maksimal penginputan data atau memasukan nama pada aplikasi ini adalah 100, lebih dari itu program akan muncul peringatan “Anda melebihi batas maksimum penginputan nama”.<br>
+	&emsp;**2.6**	**Kebutuhan – kebutuhan penyeimbang**
+
