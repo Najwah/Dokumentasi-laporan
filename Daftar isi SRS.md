@@ -133,5 +133,18 @@ dokumen IEEE  Std 830-1993.<br>
 		&emsp;&emsp;3.	Pengembangan perangkat lunak tidak akan merubah file-file ataupun database yang ada.<br>
 	&emsp;**2.5**	**Asumsi – asumsi dan ketergantungan / keterkaitan**<br>
 		&emsp;&emsp;Maksimal penginputan data atau memasukan nama pada aplikasi ini adalah 100, lebih dari itu program akan muncul peringatan “Anda melebihi batas maksimum penginputan nama”.<br>
-	&emsp;**2.6**	**Kebutuhan – kebutuhan penyeimbang**
+	&emsp;**2.6**	**Kebutuhan – kebutuhan penyeimbang**<br>
+**3. Kebutuhan lain yang lebih spesifik**<br>
+&emsp;3.1 Database<br>
+&emsp;Database yang terdapat dalam aplikasi Laundry terdiri dari:<br>
+&emsp;&emsp;a. Data-data Laundry<br>
+&emsp;&emsp;b. Data Anggota Laundry<br>
+&emsp;&emsp;c. Database data pelanggan<br>
+&emsp;&emsp;d. Database cetak nota<br>
+&emsp;&emsp;e. Database paket cucian<br>
+&emsp;3.2 Kebutuhan Fungsional adalah kebutuhan yang harus dipenuhi agar suatu sistem dapat berjalan atau dapat dikatakan kebutuhan tambahan yang memiliki input, proses, dan output. Kebutuhan fungsional yang harus ada dalam sistem yang akan dikembangkan ini adalah sebagai berikut:<br>
+&emsp;&emsp;1.	Sistem harus dapat mempermudah pengguna / user dalam pembagian kelompok.<br>
+&emsp;&emsp;2.	Sistem harus dapat mempermudah pengguna / user dalam menggunakan aplikasi ini.<br>
+
+**4. Informasi Pendukung**
 
